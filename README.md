@@ -14,7 +14,7 @@
     - Trailer in Background
     - Title & Description
     - Movie Suggesgtions
-      - Movies List \* N
+      - Movies List * N
 
 - Netflix-GPT
   - Search Bar
